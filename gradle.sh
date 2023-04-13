@@ -1,4 +1,4 @@
-#java -version (if java and JDK already exists follow below steps else , refer link mentioned at the end)
+#java -version(if java and JDK already exists follow below steps else , refer link mentioned at the end)
 
 wget https://services.gradle.org/distributions/gradle-3.4.1-bin.zip
 
